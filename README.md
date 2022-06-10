@@ -26,3 +26,5 @@ Date::today
 Enumerator#with_index
 
 Add a command line interface for encryption and decryption. You should create a Runner file called encrypt.rb that takes two command line arguments.
+
+# Enigma - Evaluation Rubric
